@@ -46,9 +46,11 @@ Start the process and observe filling, mixing, and discharge operations.
 
 			
 ## Output
+<img width="1917" height="967" alt="mix 1" src="https://github.com/user-attachments/assets/5a24f574-4056-4eef-94f9-f00b845e9ee1" />
 
 
 
+<img width="1462" height="903" alt="mix 2" src="https://github.com/user-attachments/assets/8b5d5831-c4a4-4017-a2a1-bd14c13b87ec" />
 
 
 
